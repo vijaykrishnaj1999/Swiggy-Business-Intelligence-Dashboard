@@ -1,3 +1,4 @@
+<img width="1317" height="787" alt="image" src="https://github.com/user-attachments/assets/da605ded-4250-43ad-a4aa-15170ea1bbcf" />
 # swiggy-business-intelligence-dashboard
 A comprehensive Power BI Business Intelligence Dashboard analyzing customer behavior, restaurant
 **Project Overview:**
