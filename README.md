@@ -1,4 +1,10 @@
 <img width="1317" height="787" alt="image" src="https://github.com/user-attachments/assets/da605ded-4250-43ad-a4aa-15170ea1bbcf" />
+<img width="1317" height="782" alt="image" src="https://github.com/user-attachments/assets/fc7fcb50-4431-4b75-a36d-3e5fc309d38c" />
+<img width="1362" height="791" alt="image" src="https://github.com/user-attachments/assets/15c6847e-5726-4355-9d58-b2af3f6594c4" />
+<img width="1322" height="797" alt="image" src="https://github.com/user-attachments/assets/ca273150-31e2-4539-b42a-211da4de660c" />
+<img width="1322" height="787" alt="image" src="https://github.com/user-attachments/assets/a2eb4dcb-c871-421a-8513-75912cd5276e" />
+<img width="1327" height="792" alt="image" src="https://github.com/user-attachments/assets/5bd3ee83-9b29-4d29-8fc1-b82b38acfadd" />
+
 # swiggy-business-intelligence-dashboard
 A comprehensive Power BI Business Intelligence Dashboard analyzing customer behavior, restaurant
 **Project Overview:**
